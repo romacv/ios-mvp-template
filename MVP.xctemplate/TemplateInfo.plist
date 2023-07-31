@@ -63,14 +63,14 @@
 			<key>Type</key>
 			<string>class</string>
 			<key>Default</key>
-			<string>UIVC</string>
+			<string>UIViewController</string>
 			<key>FallbackHeader</key>
 			<string>#import &lt;UIKit/UIKit.h&gt;</string>
 			<key>Values</key>
 			<array>
-				<string>UIVC</string>
-				<string>UITableVC</string>
-				<string>UICollectionVC</string>
+				<string>UIViewController</string>
+				<string>UITableViewController</string>
+				<string>UICollectionViewController</string>
 			</array>
 			<key>NotPersisted</key>
 			<true/>
