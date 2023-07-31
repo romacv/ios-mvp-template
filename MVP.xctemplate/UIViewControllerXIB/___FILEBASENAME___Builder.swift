@@ -4,8 +4,8 @@ import UIKit
 
 final class ___FILEBASENAMEASIDENTIFIER___ {
     
-    public static func build() -> ___VARIABLE_productName___ViewController {
-        let view = ___VARIABLE_productName___ViewController()
+    static func build() -> ___VARIABLE_productName___VC {
+        let view = ___VARIABLE_productName___VC()
         let presenter = ___VARIABLE_productName___Presenter(view: view)
         
         view.presenter = presenter
